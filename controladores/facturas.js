@@ -16,5 +16,5 @@ const getFactura = id => {
 module.exports = {
   getFacturas,
   getFacturasTipos,
-  getFactura
+  getFactura,
 };

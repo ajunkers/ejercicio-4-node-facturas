@@ -26,6 +26,7 @@
     "express-validator": "^6.10.0",
     "morgan": "^1.10.0",
     "node-fetch": "^2.6.1",
-    "portscanner": "^2.2.0"
+    "portscanner": "^2.2.0",
+    "sequelize": "^6.6.2"
   }
 }
